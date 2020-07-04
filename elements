@@ -1,0 +1,19 @@
+Assigning elements to different lists
+
+list1=[1,2,3,4]
+list2=['apple','mango','grape']
+print(list1)
+print(list2)
+
+
+Accessing elements from a tuple
+
+tuple1=('apple','grape','orange',1,2,3)
+print(tuple1[1])
+
+
+Deleting different dictionary elements
+
+dict={'apple':20,'grape':10,'mango':30}
+del dict['apple']
+print(dict)
